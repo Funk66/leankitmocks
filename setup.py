@@ -18,4 +18,5 @@ setup(name='leankitmocks',
       author_email='contact@guillermoguiraoaguilar.com',
       url='https://github.com/bitelio/leankitmocks',
       install_requires=['leankit'],
+      include_package_data=True,
       classifiers=['Programming Language :: Python :: 3.6'])
