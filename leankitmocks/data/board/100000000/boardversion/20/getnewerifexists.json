@@ -569,18 +569,6 @@
   "CurrentUserRole": 4,
   "CardTypes": [
     {
-      "Id": 100000011,
-      "Name": "Deliverable",
-      "ColorHex": "#ff6c00",
-      "IsDefault": false,
-      "IconPath": null,
-      "IsCardType": true,
-      "IsTaskType": true,
-      "IsDefaultTaskType": false,
-      "IconName": null,
-      "IconColor": null
-    },
-    {
       "Id": 100000012,
       "Name": "Improvement",
       "ColorHex": "#d3e0e4",
