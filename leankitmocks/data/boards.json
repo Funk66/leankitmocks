@@ -10,7 +10,7 @@
     "IsBreakoutBoard": false,
     "BreakoutBoards": null,
     "DefaultDropLaneId": 100001001,
-    "CreationDate": "27/02/2017"
+    "CreationDate": "02/27/2017"
   },
   {
     "IsPrivate": false,
@@ -23,6 +23,6 @@
     "IsBreakoutBoard": false,
     "BreakoutBoards": null,
     "DefaultDropLaneId": 200002002,
-    "CreationDate": "27/02/2017"
+    "CreationDate": "02/27/2017"
   }
 ]
